@@ -10,7 +10,7 @@
     "routes":[
         {
             "src":"/(.*)",
-            "desi":"serrver.js"
+            "dest":"server.js"
         }
     ]
 }
